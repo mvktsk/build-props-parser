@@ -1,0 +1,23 @@
+{
+  "name": "build-props-parser",
+  "version": "1.0.0",
+  "description": "DirectoryBuild.props parser",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvktsk/build-props-parser.git"
+  },
+  "author": "Maksim Kopnov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvktsk/build-props-parser/issues"
+  },
+  "homepage": "https://github.com/mvktsk/build-props-parser#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "xml2js": "^0.4.23"
+  }
+}
